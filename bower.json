@@ -1,0 +1,26 @@
+{
+  "name": "eno-ng-ckeditor",
+  "description": "Copy of ng-ckeditor, Angular Module for rendering the CKEditor",
+  "version": "2.0.4",
+  "keywords": [
+    "ckeditor",
+    "WYSIWYG",
+    "js",
+    "front-end",
+    "web"
+  ],
+  "homepage": "https://github.com/miamarti/ng.ckeditor",
+  "main": "dist/ng-ckeditor.js",
+  "ignore": [
+    "/.*",
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1",
+    "ckeditor" : "*"
+  }
+}
